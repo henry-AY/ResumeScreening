@@ -1,4 +1,4 @@
-# ResumeScreening
+# Resume Screening (ATS System)
 This project explores the process and development of an Applicant Tracking
 System (ATS) for screening and ranking resumes based on their semantic similarity to a job
 description and ideal resumes. In this project, we use SBERT for embeddings, cosine similarity
